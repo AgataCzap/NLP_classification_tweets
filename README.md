@@ -6,3 +6,6 @@ I followed  here code from one of the winners of the competition, I don't own th
 I did this project to demonstrate to any future employer that I can follow someone else's work and understand what has been done.
 Quite often at work, I may take over projects from someone else and continue them.
 I also learned new NLP text preprocessing techniques and about the BERT model.
+
+Possible users of the algorithm: governments, politicians (predict what issues interest voters the most, predict election winner), law enforcement, 
+businesses (classify tweets into positive and negative reviews of a product).
